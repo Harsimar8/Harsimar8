@@ -19,11 +19,14 @@
 
 
 
+<p align="center">
+  <img src="img3.png" alt="Centered Image">
+</p>
 
 
 
 
-![](img3.png)
+
 
 <!--
 **Harsimar8/Harsimar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
