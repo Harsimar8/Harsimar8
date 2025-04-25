@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="img3.png" alt="Centered Image">
+  <img src="img3.png" >
 </p>
 
 
